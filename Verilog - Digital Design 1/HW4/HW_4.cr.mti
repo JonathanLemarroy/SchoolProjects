@@ -1,0 +1,57 @@
+{C:/Users/hacke/Desktop/ECE 3544/HW4/tb_logicfunction_jdl25175.v} {1 {vlog -work work -stats=none {C:/Users/hacke/Desktop/ECE 3544/HW4/tb_logicfunction_jdl25175.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_logicfunction_jdl25175
+
+Top level modules:
+	tb_logicfunction_jdl25175
+
+} {} {}} {C:/Users/hacke/Desktop/ECE 3544/HW4/tb_problem4_jdl25175.v} {1 {vlog -work work -stats=none {C:\Users\hacke\Desktop\ECE 3544\HW4\tb_problem4_jdl25175.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_problem4_jdl25175
+
+Top level modules:
+	tb_problem4_jdl25175
+
+} {} {}} {C:/Users/hacke/Desktop/ECE 3544/HW4/problem3_jdl25175.v} {1 {vlog -work work -stats=none {C:/Users/hacke/Desktop/ECE 3544/HW4/problem3_jdl25175.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module problem3_jdl25175
+
+Top level modules:
+	problem3_jdl25175
+
+} {} {}} {C:/Users/hacke/Desktop/ECE 3544/HW4/tb_problem6_jdl25175.v} {1 {vlog -work work -stats=none {C:\Users\hacke\Desktop\ECE 3544\HW4\tb_problem6_jdl25175.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_problem6_jdl25175
+
+Top level modules:
+	tb_problem6_jdl25175
+
+} {} {}} {C:/Users/hacke/Desktop/ECE 3544/HW4/problem5_jdl25175.v} {1 {vlog -work work -stats=none {C:/Users/hacke/Desktop/ECE 3544/HW4/problem5_jdl25175.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module problem5_jdl25175
+
+Top level modules:
+	problem5_jdl25175
+
+} {} {}} {C:/Users/hacke/Desktop/ECE 3544/HW4/problem2_jdl25175.v} {1 {vlog -work work -stats=none {C:/Users/hacke/Desktop/ECE 3544/HW4/problem2_jdl25175.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module problem2_jdl25175
+
+Top level modules:
+	problem2_jdl25175
+
+} {} {}} {C:/Users/hacke/Desktop/ECE 3544/HW4/tb_problem5_jdl25175.v} {1 {vlog -work work -stats=none {C:/Users/hacke/Desktop/ECE 3544/HW4/tb_problem5_jdl25175.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_problem5_jdl25175
+
+Top level modules:
+	tb_problem5_jdl25175
+
+} {} {}} {C:/Users/hacke/Desktop/ECE 3544/HW4/decoder4to10_jdl25175.v} {1 {vlog -work work -stats=none {C:/Users/hacke/Desktop/ECE 3544/HW4/decoder4to10_jdl25175.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module decoder4to10_jdl25175
+
+Top level modules:
+	decoder4to10_jdl25175
+
+} {} {}}

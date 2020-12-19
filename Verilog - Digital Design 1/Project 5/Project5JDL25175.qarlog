@@ -1,0 +1,26 @@
+Quartus Prime Archive log --	C:/Users/hacke/Desktop/ECE 3544/Project 5/Project5JDL25175.qarlog
+
+Archive:	C:/Users/hacke/Desktop/ECE 3544/Project 5/Project5JDL25175.qar
+Date:		Wed Dec 09 18:55:06 2020
+Quartus Prime		18.1.0 Build 625 09/12/2018 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/hacke/Desktop/ECE 3544/Project 5/Project5_restored/ALU.v
+C:/Users/hacke/Desktop/ECE 3544/Project 5/Project5_restored/Project5.qpf
+C:/Users/hacke/Desktop/ECE 3544/Project 5/Project5_restored/Project5Top.qsf
+C:/Users/hacke/Desktop/ECE 3544/Project 5/Project5_restored/Project5Top_assignment_defaults.qdf
+C:/Users/hacke/Desktop/ECE 3544/Project 5/Project5_restored/assignment_defaults.qdf
+C:/Users/hacke/Desktop/ECE 3544/Project 5/Project5_restored/buttonpressed.v
+C:/Users/hacke/Desktop/ECE 3544/Project 5/Project5_restored/hexdriver.v
+C:/Users/hacke/Desktop/ECE 3544/Project 5/Project5_restored/project5Top.sdc
+C:/Users/hacke/Desktop/ECE 3544/Project 5/Project5_restored/project5Top.v
+	======= Total: 9 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Wed Dec 09 22:22:22 2020
+Source archive file:	C:/Users/hacke/Desktop/ECE 3544/Project 5/Project5JDL25175.qar
+Archive was extracted into	C:/Users/hacke/Desktop/ECE 3544/Project 5/Project5JDL25175_restored/
+		 - successfully.

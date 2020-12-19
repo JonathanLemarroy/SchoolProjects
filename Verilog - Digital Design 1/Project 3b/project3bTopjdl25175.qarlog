@@ -1,0 +1,29 @@
+Quartus Prime Archive log --	C:/Users/hacke/Desktop/ECE 3544/Project 3b/project3bTopjdl25175.qarlog
+
+Archive:	C:/Users/hacke/Desktop/ECE 3544/Project 3b/project3bTopjdl25175.qar
+Date:		Tue Nov 10 23:19:55 2020
+Quartus Prime		18.1.0 Build 625 09/12/2018 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/hacke/Desktop/ECE 3544/Project 3b/project3bTop_restored/Project3b.qpf
+C:/Users/hacke/Desktop/ECE 3544/Project 3b/project3bTop_restored/assignment_defaults.qdf
+C:/Users/hacke/Desktop/ECE 3544/Project 3b/project3bTop_restored/buttonpressed.v
+C:/Users/hacke/Desktop/ECE 3544/Project 3b/project3bTop_restored/decoder4to10_jdl25175.v
+C:/Users/hacke/Desktop/ECE 3544/Project 3b/project3bTop_restored/fsm16bit.v
+C:/Users/hacke/Desktop/ECE 3544/Project 3b/project3bTop_restored/hexdriver.v
+C:/Users/hacke/Desktop/ECE 3544/Project 3b/project3bTop_restored/project3bTop.qsf
+C:/Users/hacke/Desktop/ECE 3544/Project 3b/project3bTop_restored/project3bTop.sdc
+C:/Users/hacke/Desktop/ECE 3544/Project 3b/project3bTop_restored/project3bTop.v
+C:/Users/hacke/Desktop/ECE 3544/Project 3b/project3bTop_restored/project3bTop_assignment_defaults.qdf
+C:/Users/hacke/Desktop/ECE 3544/Project 3b/project3bTop_restored/tb_fsm16bit.v
+C:/Users/hacke/Desktop/ECE 3544/Project 3b/project3bTop_restored/tb_project3bTop.v
+	======= Total: 12 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Tue Nov 10 23:20:19 2020
+Source archive file:	C:/Users/hacke/Desktop/ECE 3544/Project 3b/project3bTopjdl25175.qar
+Archive was extracted into	C:/Users/hacke/Desktop/ECE 3544/Project 3b/project3bTopjdl25175_restored/
+		 - successfully.

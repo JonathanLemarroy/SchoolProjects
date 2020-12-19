@@ -1,0 +1,22 @@
+Quartus Prime Archive log --	C:/Users/hacke/Desktop/ECE 3544/Project 3a/project3aTopJDL25175.qarlog
+
+Archive:	C:/Users/hacke/Desktop/ECE 3544/Project 3a/project3aTopJDL25175.qar
+Date:		Mon Nov 02 18:45:15 2020
+Quartus Prime		18.1.0 Build 625 09/12/2018 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/hacke/Desktop/ECE 3544/Project 3a/project3aTop_restored/BitCorrupter.v
+C:/Users/hacke/Desktop/ECE 3544/Project 3a/project3aTop_restored/HC280.v
+C:/Users/hacke/Desktop/ECE 3544/Project 3a/project3aTop_restored/assignment_defaults.qdf
+C:/Users/hacke/Desktop/ECE 3544/Project 3a/project3aTop_restored/project3aTest.v
+C:/Users/hacke/Desktop/ECE 3544/Project 3a/project3aTop_restored/project3aTop.SDC
+C:/Users/hacke/Desktop/ECE 3544/Project 3a/project3aTop_restored/project3aTop.qpf
+C:/Users/hacke/Desktop/ECE 3544/Project 3a/project3aTop_restored/project3aTop.qsf
+C:/Users/hacke/Desktop/ECE 3544/Project 3a/project3aTop_restored/project3aTop.v
+C:/Users/hacke/Desktop/ECE 3544/Project 3a/project3aTop_restored/project3aTop_assignment_defaults.qdf
+C:/Users/hacke/Desktop/ECE 3544/Project 3a/project3aTop_restored/tb_bitCorrupter.v
+C:/Users/hacke/Desktop/ECE 3544/Project 3a/project3aTop_restored/tb_project3a.v
+	======= Total: 11 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

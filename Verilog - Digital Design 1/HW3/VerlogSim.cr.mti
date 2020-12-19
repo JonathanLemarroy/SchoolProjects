@@ -1,0 +1,71 @@
+{C:/Users/hacke/Desktop/ECE 3544/HW3/problem1.v} {1 {vlog -work work -stats=none {C:/Users/hacke/Desktop/ECE 3544/HW3/problem1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module problem1_jdl25175
+
+Top level modules:
+	problem1_jdl25175
+
+} {} {}} {C:/Users/hacke/Desktop/ECE 3544/HW3/problem5.v} {1 {vlog -work work -stats=none {C:/Users/hacke/Desktop/ECE 3544/HW3/problem5.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module problem5_jdl25175
+
+Top level modules:
+	problem5_jdl25175
+
+} {} {}} {C:/Users/hacke/Desktop/ECE 3544/HW3/problem6.v} {1 {vlog -work work -stats=none {C:/Users/hacke/Desktop/ECE 3544/HW3/problem6.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module sevensegdecoder_cont_jdl25175
+
+Top level modules:
+	sevensegdecoder_cont_jdl25175
+
+} {} {}} {C:/Users/hacke/Desktop/ECE 3544/HW3/problem2.v} {1 {vlog -work work -stats=none {C:/Users/hacke/Desktop/ECE 3544/HW3/problem2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_problem1_for
+
+Top level modules:
+	tb_problem1_for
+
+} {} {}} {C:/Users/hacke/Desktop/ECE 3544/HW3/tb_problem1.v} {1 {vlog -work work -stats=none {C:/Users/hacke/Desktop/ECE 3544/HW3/tb_problem1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_problem1
+
+Top level modules:
+	tb_problem1
+
+} {} {}} {C:/Users/hacke/Desktop/ECE 3544/HW3/tb_problem5.v} {1 {vlog -work work -stats=none {C:/Users/hacke/Desktop/ECE 3544/HW3/tb_problem5.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_problem5
+
+Top level modules:
+	tb_problem5
+
+} {} {}} {C:/Users/hacke/Desktop/ECE 3544/HW3/tb_problem6.v} {1 {vlog -work work -stats=none {C:/Users/hacke/Desktop/ECE 3544/HW3/tb_problem6.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_problem6
+
+Top level modules:
+	tb_problem6
+
+} {} {}} {C:/Users/hacke/Desktop/ECE 3544/HW3/problem7.v} {1 {vlog -work work -stats=none {C:/Users/hacke/Desktop/ECE 3544/HW3/problem7.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module sevensegdecoder_proc_jdl25175
+
+Top level modules:
+	sevensegdecoder_proc_jdl25175
+
+} {} {}} {C:/Users/hacke/Desktop/ECE 3544/HW3/problem3.v} {1 {vlog -work work -stats=none {C:/Users/hacke/Desktop/ECE 3544/HW3/problem3.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_problem1_while
+
+Top level modules:
+	tb_problem1_while
+
+} {} {}} {C:/Users/hacke/Desktop/ECE 3544/HW3/tb_problem7.v} {1 {vlog -work work -stats=none {C:/Users/hacke/Desktop/ECE 3544/HW3/tb_problem7.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_problem7
+
+Top level modules:
+	tb_problem7
+
+} {} {}}

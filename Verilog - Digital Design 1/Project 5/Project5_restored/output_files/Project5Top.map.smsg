@@ -1,0 +1,4 @@
+Warning (10273): Verilog HDL warning at ALU.v(37): extended using "x" or "z" File: C:/Users/hacke/Desktop/ECE 3544/Project 5/Project5_restored/ALU.v Line: 37
+Warning (10273): Verilog HDL warning at ALU.v(91): extended using "x" or "z" File: C:/Users/hacke/Desktop/ECE 3544/Project 5/Project5_restored/ALU.v Line: 91
+Warning (10273): Verilog HDL warning at ALU.v(130): extended using "x" or "z" File: C:/Users/hacke/Desktop/ECE 3544/Project 5/Project5_restored/ALU.v Line: 130
+Warning (10268): Verilog HDL information at project5Top.v(48): always construct contains both blocking and non-blocking assignments File: C:/Users/hacke/Desktop/ECE 3544/Project 5/Project5_restored/project5Top.v Line: 48

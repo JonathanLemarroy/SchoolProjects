@@ -1,0 +1,115 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/ECE3554Projects
+vproblem4_jdl25175
+Z0 !s110 1599489718
+!i10b 1
+!s100 O?EG:zQ@OZR9cX<ikZJ`l1
+IRbck6hDn8]kPzOA9jg>aP1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/hacke/Desktop/ECE 3544/HW1
+w1599481621
+8C:/Users/hacke/Desktop/ECE 3544/HW1/problem4_jdl25175.v
+FC:/Users/hacke/Desktop/ECE 3544/HW1/problem4_jdl25175.v
+L0 9
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1599489718.000000
+!s107 C:/Users/hacke/Desktop/ECE 3544/HW1/problem4_jdl25175.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/HW1/problem4_jdl25175.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vproblem5_jdl25175
+Z7 !s110 1599489719
+!i10b 1
+!s100 ]:`iho?jP`l4lS4=Lngb^0
+IiY=5Em@[lmEd2R7`K:ifZ2
+R1
+R2
+w1599489476
+8C:/Users/hacke/Desktop/ECE 3544/HW1/problem5_jdl25175.v
+FC:/Users/hacke/Desktop/ECE 3544/HW1/problem5_jdl25175.v
+L0 9
+R3
+r1
+!s85 0
+31
+Z8 !s108 1599489719.000000
+!s107 C:/Users/hacke/Desktop/ECE 3544/HW1/problem5_jdl25175.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/HW1/problem5_jdl25175.v|
+!i113 1
+R5
+R6
+vtb_cmos
+R0
+!i10b 1
+!s100 LaKA@Y5ZFNRY]d]aD<X9z1
+I0hZbAa_=2RJnDBPC=5_Cb0
+R1
+R2
+w1599344679
+8C:/Users/hacke/Desktop/ECE 3544/HW1/problem3.v
+FC:/Users/hacke/Desktop/ECE 3544/HW1/problem3.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/hacke/Desktop/ECE 3544/HW1/problem3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/HW1/problem3.v|
+!i113 1
+R5
+R6
+vtb_problem4_jdl25175
+R0
+!i10b 1
+!s100 3UjO5_OMl=1Vf=>LcbcTD1
+IH;KICTkNYH_=Af>2n7Q;:1
+R1
+R2
+w1599481805
+8C:/Users/hacke/Desktop/ECE 3544/HW1/tb_problem4_jdl25175.v
+FC:/Users/hacke/Desktop/ECE 3544/HW1/tb_problem4_jdl25175.v
+Z9 L0 11
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/hacke/Desktop/ECE 3544/HW1/tb_problem4_jdl25175.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/HW1/tb_problem4_jdl25175.v|
+!i113 1
+R5
+R6
+vtb_problem5_jdl25175
+R7
+!i10b 1
+!s100 1Y<<KJhES3Iac5D07A10b1
+I][IHA1fc:]A7VVF4;ZoTK1
+R1
+R2
+w1599489715
+8C:/Users/hacke/Desktop/ECE 3544/HW1/tb_problem5_jdl25175.v
+FC:/Users/hacke/Desktop/ECE 3544/HW1/tb_problem5_jdl25175.v
+R9
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/hacke/Desktop/ECE 3544/HW1/tb_problem5_jdl25175.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/HW1/tb_problem5_jdl25175.v|
+!i113 1
+R5
+R6

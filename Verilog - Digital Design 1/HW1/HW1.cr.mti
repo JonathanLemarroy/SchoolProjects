@@ -1,0 +1,15 @@
+{C:/Users/hacke/Desktop/ECE 3544/HW1/problem3.v} {1 {vlog -work work -stats=none {C:/Users/hacke/Desktop/ECE 3544/HW1/problem3.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_cmos
+
+Top level modules:
+	tb_cmos
+
+} {} {}} {C:/Users/hacke/Desktop/ECE 3544/HW1/problem4_jdl25175.v} {1 {vlog -work work -stats=none {C:/Users/hacke/Desktop/ECE 3544/HW1/problem4_jdl25175.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module problem4_jdl25175
+
+Top level modules:
+	problem4_jdl25175
+
+} {} {}}

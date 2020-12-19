@@ -1,0 +1,262 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/hacke/Desktop/ECE 3544/HW3
+vdecoder4to10_jdl25175
+Z0 !s110 1603230535
+!i10b 1
+!s100 j7lUg^V6hUO^_EJ93n]S_0
+ImY0^_a?15ifbYm`iGF1K51
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/hacke/Desktop/ECE 3544/HW4
+w1603230469
+8C:/Users/hacke/Desktop/ECE 3544/HW4/decoder4to10_jdl25175.v
+FC:/Users/hacke/Desktop/ECE 3544/HW4/decoder4to10_jdl25175.v
+L0 8
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1603230535.000000
+!s107 C:/Users/hacke/Desktop/ECE 3544/HW4/decoder4to10_jdl25175.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/HW4/decoder4to10_jdl25175.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vdecoder4to16_jdl25175
+R0
+!i10b 1
+!s100 e5L@HUcPJUkPM=`U25S;Q2
+I6?<e4go1Y?Cnga>9]SSQ^0
+R1
+R2
+w1603132370
+8C:/Users/hacke/Desktop/ECE 3544/HW4/decoder4to16_jdl25175.v
+FC:/Users/hacke/Desktop/ECE 3544/HW4/decoder4to16_jdl25175.v
+L0 8
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/hacke/Desktop/ECE 3544/HW4/decoder4to16_jdl25175.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/HW4/decoder4to16_jdl25175.v|
+!i113 1
+R5
+R6
+vmux8to1_delay_jdl25175
+R0
+!i10b 1
+!s100 mP9?]1G[9hg`EggWTUl1H2
+I1_ZYF>;OVAYl_NJ>[4c853
+R1
+R2
+w1603132426
+8C:/Users/hacke/Desktop/ECE 3544/HW4/mux8to1_delay_jdl25175.v
+FC:/Users/hacke/Desktop/ECE 3544/HW4/mux8to1_delay_jdl25175.v
+Z7 L0 12
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/hacke/Desktop/ECE 3544/HW4/mux8to1_delay_jdl25175.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/HW4/mux8to1_delay_jdl25175.v|
+!i113 1
+R5
+R6
+vmux8to1_jdl25175
+R0
+!i10b 1
+!s100 ?GPQ0=IAda]UjV;Cbf^=Q1
+I_PfcCTz[JMjN^cBE>:X;o2
+R1
+R2
+w1603132305
+8C:/Users/hacke/Desktop/ECE 3544/HW4/mux8to1_jdl25175.v
+FC:/Users/hacke/Desktop/ECE 3544/HW4/mux8to1_jdl25175.v
+L0 8
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/hacke/Desktop/ECE 3544/HW4/mux8to1_jdl25175.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/HW4/mux8to1_jdl25175.v|
+!i113 1
+R5
+R6
+vproblem2_jdl25175
+R0
+!i10b 1
+!s100 B9b]zE77`So9_0Y82W@Ch1
+Idi=IjE]^HCP8oI;]`@7X^3
+R1
+R2
+w1603230368
+8C:/Users/hacke/Desktop/ECE 3544/HW4/problem2_jdl25175.v
+FC:/Users/hacke/Desktop/ECE 3544/HW4/problem2_jdl25175.v
+L0 8
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/hacke/Desktop/ECE 3544/HW4/problem2_jdl25175.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/HW4/problem2_jdl25175.v|
+!i113 1
+R5
+R6
+vproblem3_jdl25175
+R0
+!i10b 1
+!s100 AI?a?ha3dO_gVM4:hTTDm2
+IEmI5OoIG>@i4I^;OEObOG1
+R1
+R2
+w1603230399
+8C:/Users/hacke/Desktop/ECE 3544/HW4/problem3_jdl25175.v
+FC:/Users/hacke/Desktop/ECE 3544/HW4/problem3_jdl25175.v
+L0 8
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/hacke/Desktop/ECE 3544/HW4/problem3_jdl25175.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/HW4/problem3_jdl25175.v|
+!i113 1
+R5
+R6
+vproblem5_jdl25175
+R0
+!i10b 1
+!s100 E:644Nj:bIGlYKmB4^><F0
+IYhdH90;0aF7QTU_U_EX<D2
+R1
+R2
+w1603230530
+8C:/Users/hacke/Desktop/ECE 3544/HW4/problem5_jdl25175.v
+FC:/Users/hacke/Desktop/ECE 3544/HW4/problem5_jdl25175.v
+R7
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/hacke/Desktop/ECE 3544/HW4/problem5_jdl25175.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/HW4/problem5_jdl25175.v|
+!i113 1
+R5
+R6
+vproblem6_jdl25175
+R0
+!i10b 1
+!s100 ;9^4j[RDn^S5m9gBUlG^Z0
+InbR`?f^iSYY;Tf;PI;o4l2
+R1
+R2
+w1603229387
+8C:/Users/hacke/Desktop/ECE 3544/HW4/problem6_jdl25175.v
+FC:/Users/hacke/Desktop/ECE 3544/HW4/problem6_jdl25175.v
+L0 8
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/hacke/Desktop/ECE 3544/HW4/problem6_jdl25175.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/HW4/problem6_jdl25175.v|
+!i113 1
+R5
+R6
+vtb_logicfunction_jdl25175
+R0
+!i10b 1
+!s100 [Z5fV<nm8QcW=h`[:O=4^0
+I?fOI;Nn6>S7dgB_BL86d:2
+R1
+R2
+w1603038983
+8C:/Users/hacke/Desktop/ECE 3544/HW4/tb_logicfunction_jdl25175.v
+FC:/Users/hacke/Desktop/ECE 3544/HW4/tb_logicfunction_jdl25175.v
+Z8 L0 11
+R3
+r1
+!s85 0
+31
+!s108 1603230534.000000
+!s107 C:/Users/hacke/Desktop/ECE 3544/HW4/tb_logicfunction_jdl25175.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/HW4/tb_logicfunction_jdl25175.v|
+!i113 1
+R5
+R6
+vtb_problem4_jdl25175
+R0
+!i10b 1
+!s100 ?J>X6=m;DN8XXYjmYXE7;0
+IAYchoiIJZYYIAO`5b_MzC0
+R1
+R2
+w1603117206
+8C:\Users\hacke\Desktop\ECE 3544\HW4\tb_problem4_jdl25175.v
+FC:\Users\hacke\Desktop\ECE 3544\HW4\tb_problem4_jdl25175.v
+R8
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\hacke\Desktop\ECE 3544\HW4\tb_problem4_jdl25175.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\hacke\Desktop\ECE 3544\HW4\tb_problem4_jdl25175.v|
+!i113 1
+R5
+R6
+vtb_problem5_jdl25175
+R0
+!i10b 1
+!s100 Ymhc>67R;Bj><QXUf0Qoh2
+IMTYTcUekhIJJk1F2=FYTJ0
+R1
+R2
+w1603221038
+8C:/Users/hacke/Desktop/ECE 3544/HW4/tb_problem5_jdl25175.v
+FC:/Users/hacke/Desktop/ECE 3544/HW4/tb_problem5_jdl25175.v
+R8
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/hacke/Desktop/ECE 3544/HW4/tb_problem5_jdl25175.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/HW4/tb_problem5_jdl25175.v|
+!i113 1
+R5
+R6
+vtb_problem6_jdl25175
+!s110 1603230536
+!i10b 1
+!s100 NIaeeAL=bHQA@3MBO0o[j0
+IZ>Uf59O29`KU3EZm>Xljz3
+R1
+R2
+w1603230280
+8C:\Users\hacke\Desktop\ECE 3544\HW4\tb_problem6_jdl25175.v
+FC:\Users\hacke\Desktop\ECE 3544\HW4\tb_problem6_jdl25175.v
+R8
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\hacke\Desktop\ECE 3544\HW4\tb_problem6_jdl25175.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\hacke\Desktop\ECE 3544\HW4\tb_problem6_jdl25175.v|
+!i113 1
+R5
+R6

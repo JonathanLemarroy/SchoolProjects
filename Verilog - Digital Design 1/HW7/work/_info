@@ -1,0 +1,388 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/hacke/Desktop/ECE 3544/Project 4
+vadder_8bit_jdl25175
+Z0 !s110 1607222829
+!i10b 1
+!s100 kVfnm>93M`Fc8]RY?7V8n1
+IVdBinH5Ch@jjOMF=ONEH51
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/hacke/Desktop/ECE 3544/HW7
+Z3 w1607221723
+Z4 8C:/Users/hacke/Desktop/ECE 3544/HW7/problem3.v
+Z5 FC:/Users/hacke/Desktop/ECE 3544/HW7/problem3.v
+L0 27
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1607222829.000000
+Z8 !s107 C:/Users/hacke/Desktop/ECE 3544/HW7/problem3.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/HW7/problem3.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+valu_controller_jdl25175
+R0
+!i10b 1
+!s100 <WG<zjIz=@MnUTFTnAFDX0
+Ii58nimh11[n6H@I`nh=_^0
+R1
+R2
+Z12 w1607221704
+Z13 8C:/Users/hacke/Desktop/ECE 3544/HW7/problem2.v
+Z14 FC:/Users/hacke/Desktop/ECE 3544/HW7/problem2.v
+L0 40
+R6
+r1
+!s85 0
+31
+R7
+Z15 !s107 C:/Users/hacke/Desktop/ECE 3544/HW7/problem2.v|
+Z16 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/HW7/problem2.v|
+!i113 1
+R10
+R11
+valu_core_jdl25175
+R0
+!i10b 1
+!s100 ?9IGVmD8U3FMTZ1V_1oE^1
+IEUF2zA`RQP^Xj:SehGBke0
+R1
+R2
+R12
+R13
+R14
+L0 10
+R6
+r1
+!s85 0
+31
+R7
+R15
+R16
+!i113 1
+R10
+R11
+vcl_block_jdl25175
+R0
+!i10b 1
+!s100 2XmL^;jTJ_AYbagGU:edj0
+I4A]hml4IU;hEnkAzWOb2m3
+R1
+R2
+Z17 w1607222819
+Z18 8C:/Users/hacke/Desktop/ECE 3544/HW7/problem1.v
+Z19 FC:/Users/hacke/Desktop/ECE 3544/HW7/problem1.v
+L0 50
+R6
+r1
+!s85 0
+31
+R7
+Z20 !s107 C:/Users/hacke/Desktop/ECE 3544/HW7/problem1.v|
+Z21 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/HW7/problem1.v|
+!i113 1
+R10
+R11
+vfull_adder_jdl25175
+R0
+!i10b 1
+!s100 K0EV8g3l@QM[6CkL17PKQ2
+Ig<:SoX^RYSXB^HC_Odjl_0
+R1
+R2
+R17
+R18
+R19
+Z22 L0 11
+R6
+r1
+!s85 0
+31
+R7
+R20
+R21
+!i113 1
+R10
+R11
+vmultiply_controller_jdl25175
+R0
+!i10b 1
+!s100 =nEIh0jk4WIlEN:a9_4eO0
+IecKIah8aUSNPlDhRDcf4e0
+R1
+R2
+R3
+R4
+R5
+L0 61
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vmux2to1_17bit_jdl25175
+R0
+!i10b 1
+!s100 Vo4nLELgb0OIMeBC=okzP2
+IejmM77^UcYJTLLPl]BBhb2
+R1
+R2
+R3
+R4
+R5
+L0 53
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vp1_cla_jdl25175
+R0
+!i10b 1
+!s100 6T2?2z;kne5Pad:YgJ[^Z0
+I`FfcEmSKQ_97K<0PnB_@<1
+R1
+R2
+R17
+R18
+R19
+L0 90
+R6
+r1
+!s85 0
+31
+R7
+R20
+R21
+!i113 1
+R10
+R11
+vp1_rca_jdl25175
+R0
+!i10b 1
+!s100 P^USOZk2=DTlc:K35TMBC2
+Il^=23B2_C;Sl1R^PgEk=Q2
+R1
+R2
+R17
+R18
+R19
+L0 20
+R6
+r1
+!s85 0
+31
+R7
+R20
+R21
+!i113 1
+R10
+R11
+vp2_alu_jdl25175
+R0
+!i10b 1
+!s100 FODfMzIZZ_h6MC0bD[b4I2
+IzVeRT`9nH;T1LLV1XJSL02
+R1
+R2
+R12
+R13
+R14
+L0 87
+R6
+r1
+!s85 0
+31
+R7
+R15
+R16
+!i113 1
+R10
+R11
+vp3_multiplier_jdl25175
+R0
+!i10b 1
+!s100 ^nXaLZ`Ca:j9HinKHUX6g1
+I?o^n0l4J7i=mHlV@mP_O12
+R1
+R2
+R3
+R4
+R5
+L0 104
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vprop_gen_jdl25175
+R0
+!i10b 1
+!s100 Y8bCfcGA^0bZ1f:RSG=c12
+IgRdABYWbncjl4FV_jT7e?3
+R1
+R2
+R17
+R18
+R19
+L0 41
+R6
+r1
+!s85 0
+31
+R7
+R20
+R21
+!i113 1
+R10
+R11
+vreg_8bit_jdl25175
+R0
+!i10b 1
+!s100 B8jPoUHF9_8l16o_L]Ym<0
+IhBIMj>ZGEbHeSnLC4hTfY2
+R1
+R2
+R3
+R4
+R5
+R22
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vshiftreg_17bit_jdl25175
+R0
+!i10b 1
+!s100 mTWcUcl^<Qd3K8[^E9JjC2
+I[R_9gWIfY2[=dzQA9ZTWP1
+R1
+R2
+R3
+R4
+R5
+L0 35
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vsum_block_jdl25175
+R0
+!i10b 1
+!s100 VJ@l?lzWOYM>mKa74fIMC3
+IoofYX<Xn=P]?NnNY2b_hN1
+R1
+R2
+R17
+R18
+R19
+L0 71
+R6
+r1
+!s85 0
+31
+R7
+R20
+R21
+!i113 1
+R10
+R11
+vtb_p1_jdl25175
+R0
+!i10b 1
+!s100 `NmC>mjD;k1VUNRmbUIB?1
+I4G4PRzV<UYR0=ZSOPWXJ[2
+R1
+R2
+R17
+R18
+R19
+L0 116
+R6
+r1
+!s85 0
+31
+R7
+R20
+R21
+!i113 1
+R10
+R11
+vtb_p2_jdl25175
+R0
+!i10b 1
+!s100 HAE4bb1zD<GFXmDOhjf3^3
+I2jaU?NTCAg<AelECCQDGZ1
+R1
+R2
+R12
+R13
+R14
+L0 107
+R6
+r1
+!s85 0
+31
+R7
+R15
+R16
+!i113 1
+R10
+R11
+vtb_p3_jdl25175
+R0
+!i10b 1
+!s100 TjDiG0fE^@Q^R5AFCDk8d1
+I5?`1zdGP^bSahO3hVhl^]1
+R1
+R2
+R3
+R4
+R5
+L0 130
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11

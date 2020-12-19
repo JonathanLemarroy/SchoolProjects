@@ -1,0 +1,50 @@
+{C:/Users/hacke/Desktop/ECE 3544/HW5/dff_set_reset_hw5.v} {1 {vlog -work work -stats=none {C:/Users/hacke/Desktop/ECE 3544/HW5/dff_set_reset_hw5.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module dff_hw5_set_reset
+
+Top level modules:
+	dff_hw5_set_reset
+
+} {} {}} {C:/Users/hacke/Desktop/ECE 3544/HW5/state_dense_jdl25175.v} {1 {vlog -work work -stats=none {C:/Users/hacke/Desktop/ECE 3544/HW5/state_dense_jdl25175.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module state_dense_jdl25175
+
+Top level modules:
+	state_dense_jdl25175
+
+} {} {}} {C:/Users/hacke/Desktop/ECE 3544/HW5/tb_state_dense_jdl25175.v} {1 {vlog -work work -stats=none {C:/Users/hacke/Desktop/ECE 3544/HW5/tb_state_dense_jdl25175.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_state_dense_jdl25175
+
+Top level modules:
+	tb_state_dense_jdl25175
+
+} {} {}} {C:/Users/hacke/Desktop/ECE 3544/HW5/state_onehot_jdl25175.v} {1 {vlog -work work -stats=none {C:/Users/hacke/Desktop/ECE 3544/HW5/state_onehot_jdl25175.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module state_onehot_jdl25175
+
+Top level modules:
+	state_onehot_jdl25175
+
+} {} {}} {C:/Users/hacke/Desktop/ECE 3544/HW5/state_procedural_jdl25175.v} {1 {vlog -work work -stats=none {C:/Users/hacke/Desktop/ECE 3544/HW5/state_procedural_jdl25175.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module state_procedural_jdl25175
+
+Top level modules:
+	state_procedural_jdl25175
+
+} {} {}} {C:/Users/hacke/Desktop/ECE 3544/HW5/tb_state_onehot_jdl25175.v} {1 {vlog -work work -stats=none {C:/Users/hacke/Desktop/ECE 3544/HW5/tb_state_onehot_jdl25175.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_state_onehot_jdl25175
+
+Top level modules:
+	tb_state_onehot_jdl25175
+
+} {} {}} {C:/Users/hacke/Desktop/ECE 3544/HW5/tb_state_procedural_jdl25175.v} {1 {vlog -work work -stats=none {C:/Users/hacke/Desktop/ECE 3544/HW5/tb_state_procedural_jdl25175.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_state_procedural_jdl25175
+
+Top level modules:
+	tb_state_procedural_jdl25175
+
+} {} {}}

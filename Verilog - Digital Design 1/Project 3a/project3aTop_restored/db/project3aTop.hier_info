@@ -1,0 +1,296 @@
+|project3aTop
+SW[0] => SW[0].IN3
+SW[1] => SW[1].IN3
+SW[2] => SW[2].IN4
+SW[3] => SW[3].IN3
+SW[4] => SW[4].IN4
+SW[5] => SW[5].IN4
+SW[6] => SW[6].IN5
+SW[7] => SW[7].IN2
+SW[8] => SW[8].IN3
+SW[9] => SW[9].IN3
+LED[0] << SW[0].DB_MAX_OUTPUT_PORT_TYPE
+LED[1] << SW[1].DB_MAX_OUTPUT_PORT_TYPE
+LED[2] << SW[2].DB_MAX_OUTPUT_PORT_TYPE
+LED[3] << SW[3].DB_MAX_OUTPUT_PORT_TYPE
+LED[4] << SW[4].DB_MAX_OUTPUT_PORT_TYPE
+LED[5] << SW[5].DB_MAX_OUTPUT_PORT_TYPE
+LED[6] << SW[6].DB_MAX_OUTPUT_PORT_TYPE
+LED[7] << x3.DB_MAX_OUTPUT_PORT_TYPE
+LED[8] << x2.DB_MAX_OUTPUT_PORT_TYPE
+LED[9] << x1.DB_MAX_OUTPUT_PORT_TYPE
+HEX0[0] << project3aTest:U0.port1
+HEX0[1] << project3aTest:U0.port1
+HEX0[2] << project3aTest:U0.port1
+HEX0[3] << project3aTest:U0.port1
+HEX0[4] << project3aTest:U0.port1
+HEX0[5] << project3aTest:U0.port1
+HEX0[6] << project3aTest:U0.port1
+HEX1[0] << project3aTest:U1.port1
+HEX1[1] << project3aTest:U1.port1
+HEX1[2] << project3aTest:U1.port1
+HEX1[3] << project3aTest:U1.port1
+HEX1[4] << project3aTest:U1.port1
+HEX1[5] << project3aTest:U1.port1
+HEX1[6] << project3aTest:U1.port1
+HEX2[0] << project3aTest:U2.port1
+HEX2[1] << project3aTest:U2.port1
+HEX2[2] << project3aTest:U2.port1
+HEX2[3] << project3aTest:U2.port1
+HEX2[4] << project3aTest:U2.port1
+HEX2[5] << project3aTest:U2.port1
+HEX2[6] << project3aTest:U2.port1
+HEX3[0] << project3aTest:U3.port1
+HEX3[1] << project3aTest:U3.port1
+HEX3[2] << project3aTest:U3.port1
+HEX3[3] << project3aTest:U3.port1
+HEX3[4] << project3aTest:U3.port1
+HEX3[5] << project3aTest:U3.port1
+HEX3[6] << project3aTest:U3.port1
+HEX4[0] << project3aTest:U4.port1
+HEX4[1] << project3aTest:U4.port1
+HEX4[2] << project3aTest:U4.port1
+HEX4[3] << project3aTest:U4.port1
+HEX4[4] << project3aTest:U4.port1
+HEX4[5] << project3aTest:U4.port1
+HEX4[6] << project3aTest:U4.port1
+HEX5[0] << project3aTest:U5.port1
+HEX5[1] << project3aTest:U5.port1
+HEX5[2] << project3aTest:U5.port1
+HEX5[3] << project3aTest:U5.port1
+HEX5[4] << project3aTest:U5.port1
+HEX5[5] << project3aTest:U5.port1
+HEX5[6] << project3aTest:U5.port1
+
+
+|project3aTop|project3aTest:U0
+ins[0] => HEX.IN0
+ins[0] => HEX.IN0
+ins[0] => HEX.IN0
+ins[0] => HEX[6].DATAIN
+ins[1] => HEX.IN1
+ins[1] => HEX.IN1
+ins[1] => HEX.IN1
+HEX[0] <= HEX.DB_MAX_OUTPUT_PORT_TYPE
+HEX[1] <= HEX.DB_MAX_OUTPUT_PORT_TYPE
+HEX[2] <= HEX.DB_MAX_OUTPUT_PORT_TYPE
+HEX[3] <= HEX.DB_MAX_OUTPUT_PORT_TYPE
+HEX[4] <= HEX.DB_MAX_OUTPUT_PORT_TYPE
+HEX[5] <= HEX.DB_MAX_OUTPUT_PORT_TYPE
+HEX[6] <= ins[0].DB_MAX_OUTPUT_PORT_TYPE
+
+
+|project3aTop|project3aTest:U1
+ins[0] => HEX.IN0
+ins[0] => HEX.IN0
+ins[0] => HEX.IN0
+ins[0] => HEX[6].DATAIN
+ins[1] => HEX.IN1
+ins[1] => HEX.IN1
+ins[1] => HEX.IN1
+HEX[0] <= HEX.DB_MAX_OUTPUT_PORT_TYPE
+HEX[1] <= HEX.DB_MAX_OUTPUT_PORT_TYPE
+HEX[2] <= HEX.DB_MAX_OUTPUT_PORT_TYPE
+HEX[3] <= HEX.DB_MAX_OUTPUT_PORT_TYPE
+HEX[4] <= HEX.DB_MAX_OUTPUT_PORT_TYPE
+HEX[5] <= HEX.DB_MAX_OUTPUT_PORT_TYPE
+HEX[6] <= ins[0].DB_MAX_OUTPUT_PORT_TYPE
+
+
+|project3aTop|project3aTest:U2
+ins[0] => HEX.IN0
+ins[0] => HEX.IN0
+ins[0] => HEX.IN0
+ins[0] => HEX[6].DATAIN
+ins[1] => HEX.IN1
+ins[1] => HEX.IN1
+ins[1] => HEX.IN1
+HEX[0] <= HEX.DB_MAX_OUTPUT_PORT_TYPE
+HEX[1] <= HEX.DB_MAX_OUTPUT_PORT_TYPE
+HEX[2] <= HEX.DB_MAX_OUTPUT_PORT_TYPE
+HEX[3] <= HEX.DB_MAX_OUTPUT_PORT_TYPE
+HEX[4] <= HEX.DB_MAX_OUTPUT_PORT_TYPE
+HEX[5] <= HEX.DB_MAX_OUTPUT_PORT_TYPE
+HEX[6] <= ins[0].DB_MAX_OUTPUT_PORT_TYPE
+
+
+|project3aTop|project3aTest:U3
+ins[0] => HEX.IN0
+ins[0] => HEX.IN0
+ins[0] => HEX.IN0
+ins[0] => HEX[6].DATAIN
+ins[1] => HEX.IN1
+ins[1] => HEX.IN1
+ins[1] => HEX.IN1
+HEX[0] <= HEX.DB_MAX_OUTPUT_PORT_TYPE
+HEX[1] <= HEX.DB_MAX_OUTPUT_PORT_TYPE
+HEX[2] <= HEX.DB_MAX_OUTPUT_PORT_TYPE
+HEX[3] <= HEX.DB_MAX_OUTPUT_PORT_TYPE
+HEX[4] <= HEX.DB_MAX_OUTPUT_PORT_TYPE
+HEX[5] <= HEX.DB_MAX_OUTPUT_PORT_TYPE
+HEX[6] <= ins[0].DB_MAX_OUTPUT_PORT_TYPE
+
+
+|project3aTop|project3aTest:U4
+ins[0] => HEX.IN0
+ins[0] => HEX.IN0
+ins[0] => HEX.IN0
+ins[0] => HEX[6].DATAIN
+ins[1] => HEX.IN1
+ins[1] => HEX.IN1
+ins[1] => HEX.IN1
+HEX[0] <= HEX.DB_MAX_OUTPUT_PORT_TYPE
+HEX[1] <= HEX.DB_MAX_OUTPUT_PORT_TYPE
+HEX[2] <= HEX.DB_MAX_OUTPUT_PORT_TYPE
+HEX[3] <= HEX.DB_MAX_OUTPUT_PORT_TYPE
+HEX[4] <= HEX.DB_MAX_OUTPUT_PORT_TYPE
+HEX[5] <= HEX.DB_MAX_OUTPUT_PORT_TYPE
+HEX[6] <= ins[0].DB_MAX_OUTPUT_PORT_TYPE
+
+
+|project3aTop|project3aTest:U5
+ins[0] => HEX.IN0
+ins[0] => HEX.IN0
+ins[0] => HEX.IN0
+ins[0] => HEX[6].DATAIN
+ins[1] => HEX.IN1
+ins[1] => HEX.IN1
+ins[1] => HEX.IN1
+HEX[0] <= HEX.DB_MAX_OUTPUT_PORT_TYPE
+HEX[1] <= HEX.DB_MAX_OUTPUT_PORT_TYPE
+HEX[2] <= HEX.DB_MAX_OUTPUT_PORT_TYPE
+HEX[3] <= HEX.DB_MAX_OUTPUT_PORT_TYPE
+HEX[4] <= HEX.DB_MAX_OUTPUT_PORT_TYPE
+HEX[5] <= HEX.DB_MAX_OUTPUT_PORT_TYPE
+HEX[6] <= ins[0].DB_MAX_OUTPUT_PORT_TYPE
+
+
+|project3aTop|hc280_jdl25175:TP0
+data_in[0] => func1.IN0
+data_in[1] => func1.IN1
+data_in[2] => func1.IN1
+data_in[3] => func2.IN0
+data_in[4] => func2.IN1
+data_in[5] => func2.IN1
+data_in[6] => func3.IN0
+data_in[7] => func3.IN1
+data_in[8] => func3.IN1
+even <= even.DB_MAX_OUTPUT_PORT_TYPE
+odd <= odd.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|project3aTop|hc280_jdl25175:TP1
+data_in[0] => func1.IN0
+data_in[1] => func1.IN1
+data_in[2] => func1.IN1
+data_in[3] => func2.IN0
+data_in[4] => func2.IN1
+data_in[5] => func2.IN1
+data_in[6] => func3.IN0
+data_in[7] => func3.IN1
+data_in[8] => func3.IN1
+even <= even.DB_MAX_OUTPUT_PORT_TYPE
+odd <= odd.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|project3aTop|hc280_jdl25175:TP2
+data_in[0] => func1.IN0
+data_in[1] => func1.IN1
+data_in[2] => func1.IN1
+data_in[3] => func2.IN0
+data_in[4] => func2.IN1
+data_in[5] => func2.IN1
+data_in[6] => func3.IN0
+data_in[7] => func3.IN1
+data_in[8] => func3.IN1
+even <= even.DB_MAX_OUTPUT_PORT_TYPE
+odd <= odd.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|project3aTop|bit_corrupter:C
+index[0] => Equal0.IN0
+index[0] => Equal1.IN2
+index[0] => Equal2.IN1
+index[0] => Equal3.IN2
+index[0] => Equal4.IN1
+index[0] => Equal5.IN2
+index[0] => Equal6.IN2
+index[1] => Equal0.IN2
+index[1] => Equal1.IN0
+index[1] => Equal2.IN0
+index[1] => Equal3.IN1
+index[1] => Equal4.IN2
+index[1] => Equal5.IN1
+index[1] => Equal6.IN1
+index[2] => Equal0.IN1
+index[2] => Equal1.IN1
+index[2] => Equal2.IN2
+index[2] => Equal3.IN0
+index[2] => Equal4.IN0
+index[2] => Equal5.IN0
+index[2] => Equal6.IN0
+input_word[1] => output_word.DATAA
+input_word[1] => output_word.DATAB
+input_word[2] => output_word.DATAA
+input_word[2] => output_word.DATAB
+input_word[3] => output_word.DATAA
+input_word[3] => output_word.DATAB
+input_word[4] => output_word.DATAA
+input_word[4] => output_word.DATAB
+input_word[5] => output_word.DATAA
+input_word[5] => output_word.DATAB
+input_word[6] => output_word.DATAA
+input_word[6] => output_word.DATAB
+input_word[7] => output_word.DATAA
+input_word[7] => output_word.DATAB
+output_word[1] <= output_word.DB_MAX_OUTPUT_PORT_TYPE
+output_word[2] <= output_word.DB_MAX_OUTPUT_PORT_TYPE
+output_word[3] <= output_word.DB_MAX_OUTPUT_PORT_TYPE
+output_word[4] <= output_word.DB_MAX_OUTPUT_PORT_TYPE
+output_word[5] <= output_word.DB_MAX_OUTPUT_PORT_TYPE
+output_word[6] <= output_word.DB_MAX_OUTPUT_PORT_TYPE
+output_word[7] <= output_word.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|project3aTop|hc280_jdl25175:RP0
+data_in[0] => func1.IN0
+data_in[1] => func1.IN1
+data_in[2] => func1.IN1
+data_in[3] => func2.IN0
+data_in[4] => func2.IN1
+data_in[5] => func2.IN1
+data_in[6] => func3.IN0
+data_in[7] => func3.IN1
+data_in[8] => func3.IN1
+even <= even.DB_MAX_OUTPUT_PORT_TYPE
+odd <= odd.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|project3aTop|hc280_jdl25175:RP1
+data_in[0] => func1.IN0
+data_in[1] => func1.IN1
+data_in[2] => func1.IN1
+data_in[3] => func2.IN0
+data_in[4] => func2.IN1
+data_in[5] => func2.IN1
+data_in[6] => func3.IN0
+data_in[7] => func3.IN1
+data_in[8] => func3.IN1
+even <= even.DB_MAX_OUTPUT_PORT_TYPE
+odd <= odd.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|project3aTop|hc280_jdl25175:RP2
+data_in[0] => func1.IN0
+data_in[1] => func1.IN1
+data_in[2] => func1.IN1
+data_in[3] => func2.IN0
+data_in[4] => func2.IN1
+data_in[5] => func2.IN1
+data_in[6] => func3.IN0
+data_in[7] => func3.IN1
+data_in[8] => func3.IN1
+even <= even.DB_MAX_OUTPUT_PORT_TYPE
+odd <= odd.DB_MAX_OUTPUT_PORT_TYPE
+
+

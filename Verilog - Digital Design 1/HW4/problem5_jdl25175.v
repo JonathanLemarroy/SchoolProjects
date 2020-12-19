@@ -1,0 +1,28 @@
+// Filename:    problem5_jdl25175.v
+// Author:      Jonathan Lemarroy
+// Date:        15 October 2020
+// Version:     1
+// Description: This is the solution to Problem 5 part b, which implements the
+//              seven-segment display using a 4 to 10 decoder.
+
+//              ****IMPORTANT**** --> This implements a 7 segement display that
+//              is active when logic 0 is applied. The display will enable all
+//              segments if digits are z or x.
+
+module problem5_jdl25175(digit, hex_display);
+    input  [3:0] digit;
+    output [6:0] hex_display;
+
+    wire   [9:0] dOut;
+
+    decoder4to10_jdl25175 dec(1'b1, digit, dOut);
+
+    or or0(hex_display[0], dOut[4], dOut[8]);
+    or or1(hex_display[1], dOut[0], dOut[6]);
+    or or2(hex_display[2], dOut[1], 1'b0);
+    or or3(hex_display[3], dOut[4], dOut[5], dOut[8]);
+    or or4(hex_display[4], dOut[0], dOut[3], dOut[4], dOut[5], dOut[8]);
+    or or5(hex_display[5], dOut[1], dOut[5], dOut[7], dOut[8]);
+    or or6(hex_display[6], dOut[5], dOut[8], dOut[9]);
+
+endmodule

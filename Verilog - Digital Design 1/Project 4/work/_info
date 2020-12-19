@@ -1,0 +1,76 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/hacke/Desktop/ECE 3544/HW5
+vsecondTenthsTimer
+Z0 !s110 1606774415
+!i10b 1
+!s100 jNenzlNIPdGf0=?H5CPZU2
+IWfE0l6>T<=^gl[ZzP4KY?3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/hacke/Desktop/ECE 3544/Project 4
+w1606772677
+8C:/Users/hacke/Desktop/ECE 3544/Project 4/project4_restored/secondTenthsTimer.v
+FC:/Users/hacke/Desktop/ECE 3544/Project 4/project4_restored/secondTenthsTimer.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1606774415.000000
+!s107 C:/Users/hacke/Desktop/ECE 3544/Project 4/project4_restored/secondTenthsTimer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/Project 4/project4_restored/secondTenthsTimer.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+nsecond@tenths@timer
+vtb_tenMinTimer
+!s110 1606774416
+!i10b 1
+!s100 B=]19f:gQh?I2Ge2lT4hW1
+IoKL_]dGBWlChIMTKM66OG3
+R1
+R2
+w1606774110
+8C:/Users/hacke/Desktop/ECE 3544/Project 4/project4_restored/tb_tenMinTimer.v
+FC:/Users/hacke/Desktop/ECE 3544/Project 4/project4_restored/tb_tenMinTimer.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/hacke/Desktop/ECE 3544/Project 4/project4_restored/tb_tenMinTimer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/Project 4/project4_restored/tb_tenMinTimer.v|
+!i113 1
+R5
+R6
+ntb_ten@min@timer
+vtenMinTimer
+R0
+!i10b 1
+!s100 k4Mf^oCZ>:zRfobZ<`6W70
+Ic<b7N@2jIlc;Ob@KZbl^Y0
+R1
+R2
+w1606774410
+8C:/Users/hacke/Desktop/ECE 3544/Project 4/project4_restored/tenMinTimer.v
+FC:/Users/hacke/Desktop/ECE 3544/Project 4/project4_restored/tenMinTimer.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/hacke/Desktop/ECE 3544/Project 4/project4_restored/tenMinTimer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/Project 4/project4_restored/tenMinTimer.v|
+!i113 1
+R5
+R6
+nten@min@timer

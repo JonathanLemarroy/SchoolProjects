@@ -1,0 +1,157 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/18.1
+vdff_hw5_set_reset
+Z0 !s110 1605242735
+!i10b 1
+!s100 ;85:`l3^E;Y];kj6ZUO351
+IFTFMVG8lVR]2b@RW86JmO3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/hacke/Desktop/ECE 3544/HW5
+w1604433680
+8C:/Users/hacke/Desktop/ECE 3544/HW5/dff_set_reset_hw5.v
+FC:/Users/hacke/Desktop/ECE 3544/HW5/dff_set_reset_hw5.v
+L0 9
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1605242735.000000
+!s107 C:/Users/hacke/Desktop/ECE 3544/HW5/dff_set_reset_hw5.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/HW5/dff_set_reset_hw5.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vstate_dense_jdl25175
+R0
+!i10b 1
+!s100 nSz`8>ngZoP@M7UQSUc_D3
+IhGc>4?>NNRTo;i:84KD<<2
+R1
+R2
+w1605242319
+8C:/Users/hacke/Desktop/ECE 3544/HW5/state_dense_jdl25175.v
+FC:/Users/hacke/Desktop/ECE 3544/HW5/state_dense_jdl25175.v
+Z7 L0 10
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/hacke/Desktop/ECE 3544/HW5/state_dense_jdl25175.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/HW5/state_dense_jdl25175.v|
+!i113 1
+R5
+R6
+vstate_onehot_jdl25175
+R0
+!i10b 1
+!s100 @Pd8_3VhRIW7:kk`Hg:b30
+IKYa10aQz[Y2TG`>g1HCX<2
+R1
+R2
+w1605242320
+8C:/Users/hacke/Desktop/ECE 3544/HW5/state_onehot_jdl25175.v
+FC:/Users/hacke/Desktop/ECE 3544/HW5/state_onehot_jdl25175.v
+R7
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/hacke/Desktop/ECE 3544/HW5/state_onehot_jdl25175.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/HW5/state_onehot_jdl25175.v|
+!i113 1
+R5
+R6
+vstate_procedural_jdl25175
+R0
+!i10b 1
+!s100 HT]elRFbO:6m:5NBS1O8G2
+IL]<Anj=ZNaYa`@X_PAclZ3
+R1
+R2
+w1605242731
+8C:/Users/hacke/Desktop/ECE 3544/HW5/state_procedural_jdl25175.v
+FC:/Users/hacke/Desktop/ECE 3544/HW5/state_procedural_jdl25175.v
+R7
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/hacke/Desktop/ECE 3544/HW5/state_procedural_jdl25175.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/HW5/state_procedural_jdl25175.v|
+!i113 1
+R5
+R6
+vtb_state_dense_jdl25175
+R0
+!i10b 1
+!s100 `ZiEakDTgA;5K3_<BcAc83
+IKnYF69gM@FJXjilA1n89n2
+R1
+R2
+w1605236159
+8C:/Users/hacke/Desktop/ECE 3544/HW5/tb_state_dense_jdl25175.v
+FC:/Users/hacke/Desktop/ECE 3544/HW5/tb_state_dense_jdl25175.v
+Z8 L0 13
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/hacke/Desktop/ECE 3544/HW5/tb_state_dense_jdl25175.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/HW5/tb_state_dense_jdl25175.v|
+!i113 1
+R5
+R6
+vtb_state_onehot_jdl25175
+R0
+!i10b 1
+!s100 GYGJY?Y@Nk0TOcIZCCGhL3
+If85;_gEZ6lObY>gBRkZi40
+R1
+R2
+w1605240052
+8C:/Users/hacke/Desktop/ECE 3544/HW5/tb_state_onehot_jdl25175.v
+FC:/Users/hacke/Desktop/ECE 3544/HW5/tb_state_onehot_jdl25175.v
+R8
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/hacke/Desktop/ECE 3544/HW5/tb_state_onehot_jdl25175.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/HW5/tb_state_onehot_jdl25175.v|
+!i113 1
+R5
+R6
+vtb_state_procedural_jdl25175
+R0
+!i10b 1
+!s100 MZA[JI;gE[5QJB`liTe@a3
+IX:mPTSX[9;S`J^C4>41>g2
+R1
+R2
+w1605241827
+8C:/Users/hacke/Desktop/ECE 3544/HW5/tb_state_procedural_jdl25175.v
+FC:/Users/hacke/Desktop/ECE 3544/HW5/tb_state_procedural_jdl25175.v
+R8
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/hacke/Desktop/ECE 3544/HW5/tb_state_procedural_jdl25175.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/HW5/tb_state_procedural_jdl25175.v|
+!i113 1
+R5
+R6

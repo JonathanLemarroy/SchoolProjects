@@ -1,0 +1,13 @@
+
+State Machine - |project5Top|state
+Name state.11 state.10 state.01 state.00 
+state.00 0 0 0 0 
+state.01 0 0 1 1 
+state.10 0 1 0 1 
+state.11 1 0 0 1 
+
+State Machine - |project5Top|buttonpressed:btn|state
+Name state.BUTTON_FREE state.BUTTON_RELEASED state.BUTTON_PRESSED 
+state.BUTTON_FREE 0 0 0 
+state.BUTTON_PRESSED 1 0 1 
+state.BUTTON_RELEASED 1 1 0 

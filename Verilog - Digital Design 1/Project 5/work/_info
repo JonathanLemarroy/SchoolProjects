@@ -1,0 +1,164 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/hacke/Desktop/ECE 3544/HW7
+vALU_jdl25175
+Z0 !s110 1607490151
+!i10b 1
+!s100 ;jZGbnaBDJfii@Yl8`_PG0
+IM:kPa]PdNzo8Z6I1<0FeM2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/hacke/Desktop/ECE 3544/Project 5
+Z3 w1607489099
+Z4 8C:/Users/hacke/Desktop/ECE 3544/Project 5/Project5_restored/ALU.v
+Z5 FC:/Users/hacke/Desktop/ECE 3544/Project 5/Project5_restored/ALU.v
+L0 9
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1607490151.000000
+Z8 !s107 C:/Users/hacke/Desktop/ECE 3544/Project 5/Project5_restored/ALU.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/Project 5/Project5_restored/ALU.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@a@l@u_jdl25175
+vMultiplier
+R0
+!i10b 1
+!s100 4WfVf7<8c7iY:OHTE2_OF3
+I<VDJ8C__2f;T@LeL1cE<B0
+R1
+R2
+R3
+R4
+R5
+L0 149
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@multiplier
+vRightShiftReg
+R0
+!i10b 1
+!s100 00`;A=CdNl]RZU?P4T=LK3
+IV^F@bOZnb4afNc^XNzUI72
+R1
+R2
+R3
+R4
+R5
+L0 133
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@right@shift@reg
+vShiftArithmetic_16Bit_Operator
+R0
+!i10b 1
+!s100 28lb;7VQA`ljV5]f0abi11
+I58FNbAi>gJb[NG@HjHkk]2
+R1
+R2
+R3
+R4
+R5
+L0 55
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@shift@arithmetic_16@bit_@operator
+vShiftRotational_16Bit_Operator
+R0
+!i10b 1
+!s100 HPeYf`AF400fcRUV^86jQ3
+IJICbM0c<hU=JgMon9ki;`0
+R1
+R2
+R3
+R4
+R5
+L0 94
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@shift@rotational_16@bit_@operator
+vSignExtender8To16Bit
+R0
+!i10b 1
+!s100 01m7zDGU7Xi`mnzdH=KbS1
+INKm?ck=8`?WnWPDEoA1ao2
+R1
+R2
+R3
+R4
+R5
+L0 49
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@sign@extender8@to16@bit
+vtb_ALU
+R0
+!i10b 1
+!s100 `J6h@mWX_BjBzY;Ll_BB[1
+IUB^Zj50=5Y?;I:YoX_dbT1
+R1
+R2
+w1607488626
+8C:/Users/hacke/Desktop/ECE 3544/Project 5/Project5_restored/tb_ALU.v
+FC:/Users/hacke/Desktop/ECE 3544/Project 5/Project5_restored/tb_ALU.v
+L0 11
+R6
+r1
+!s85 0
+31
+!s108 1607490150.000000
+!s107 C:/Users/hacke/Desktop/ECE 3544/Project 5/Project5_restored/tb_ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/Project 5/Project5_restored/tb_ALU.v|
+!i113 1
+R10
+R11
+ntb_@a@l@u

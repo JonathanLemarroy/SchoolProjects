@@ -1,0 +1,22 @@
+{C:/Users/hacke/Desktop/ECE 3544/Project 4/project4_restored/tenMinTimer.v} {1 {vlog -work work -stats=none {C:/Users/hacke/Desktop/ECE 3544/Project 4/project4_restored/tenMinTimer.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tenMinTimer
+
+Top level modules:
+	tenMinTimer
+
+} {} {}} {C:/Users/hacke/Desktop/ECE 3544/Project 4/project4_restored/tb_tenMinTimer.v} {1 {vlog -work work -stats=none {C:/Users/hacke/Desktop/ECE 3544/Project 4/project4_restored/tb_tenMinTimer.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_tenMinTimer
+
+Top level modules:
+	tb_tenMinTimer
+
+} {} {}} {C:/Users/hacke/Desktop/ECE 3544/Project 4/project4_restored/secondTenthsTimer.v} {1 {vlog -work work -stats=none {C:/Users/hacke/Desktop/ECE 3544/Project 4/project4_restored/secondTenthsTimer.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module secondTenthsTimer
+
+Top level modules:
+	secondTenthsTimer
+
+} {} {}}

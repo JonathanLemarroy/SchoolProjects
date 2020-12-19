@@ -1,0 +1,304 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/18.1
+vclk
+Z0 !s110 1603588942
+!i10b 1
+!s100 9B?1Khi7>fg6kHL^G_`hJ3
+IWXJnU>R<M0`XBkJ38Ek@?1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/hacke/Desktop/ECE 3544/Project 2
+Z3 w1497104838
+8C:/Users/hacke/Desktop/ECE 3544/Project 2/clk.v
+FC:/Users/hacke/Desktop/ECE 3544/Project 2/clk.v
+L0 25
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1603588942.000000
+!s107 C:/Users/hacke/Desktop/ECE 3544/Project 2/clk.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/Project 2/clk.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vcounter4bit
+R0
+!i10b 1
+!s100 @L=5^Qm<;?_>>@8WX[hTI3
+IjV2i6Az]0EV?zCDA:6VNM3
+R1
+R2
+w1497105050
+8C:/Users/hacke/Desktop/ECE 3544/Project 2/counter4bit.v
+FC:/Users/hacke/Desktop/ECE 3544/Project 2/counter4bit.v
+L0 35
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/hacke/Desktop/ECE 3544/Project 2/counter4bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/Project 2/counter4bit.v|
+!i113 1
+R6
+R7
+vcounter9bit_jdl25175
+R0
+!i10b 1
+!s100 Og:X_0zL[]Nb]HKekzM<k0
+IRgT=iI19RW2QMLg@LZ`;`3
+R1
+R2
+w1603466183
+8C:/Users/hacke/Desktop/ECE 3544/Project 2/counter9bit.v
+FC:/Users/hacke/Desktop/ECE 3544/Project 2/counter9bit.v
+Z8 L0 12
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/hacke/Desktop/ECE 3544/Project 2/counter9bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/Project 2/counter9bit.v|
+!i113 1
+R6
+R7
+vhc280_jdl25175
+R0
+!i10b 1
+!s100 BQF8cg4P9MIl2OSm]JTEP2
+I_YHhm;5X:ebJNogChcnUz3
+R1
+R2
+w1603480609
+8C:/Users/hacke/Desktop/ECE 3544/Project 2/HC280.v
+FC:/Users/hacke/Desktop/ECE 3544/Project 2/HC280.v
+Z9 L0 11
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/hacke/Desktop/ECE 3544/Project 2/HC280.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/Project 2/HC280.v|
+!i113 1
+R6
+R7
+vreceive_jdl25175
+R0
+!i10b 1
+!s100 0TJ_PjhRONgZJkaTI;MMU1
+Il>kY8o=<RjTFWHHLjA`<30
+R1
+R2
+w1603588868
+8C:/Users/hacke/Desktop/ECE 3544/Project 2/receive.v
+FC:/Users/hacke/Desktop/ECE 3544/Project 2/receive.v
+L0 9
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/hacke/Desktop/ECE 3544/Project 2/receive.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/Project 2/receive.v|
+!i113 1
+R6
+R7
+vregister10bit_jdl25175
+Z10 !s110 1603588943
+!i10b 1
+!s100 EPSZgBMIAJ1W[^P3fAWmo3
+IJjLo0SDD7]IW0Y97e<GI<1
+R1
+R2
+w1603555677
+8C:/Users/hacke/Desktop/ECE 3544/Project 2/register10bit.v
+FC:/Users/hacke/Desktop/ECE 3544/Project 2/register10bit.v
+L0 10
+R4
+r1
+!s85 0
+31
+Z11 !s108 1603588943.000000
+!s107 C:/Users/hacke/Desktop/ECE 3544/Project 2/register10bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/Project 2/register10bit.v|
+!i113 1
+R6
+R7
+vtb_channel1
+R10
+!i10b 1
+!s100 @mmK3bS6dDUTzX^FU?Hk;2
+IADT:<;2fSQb3JMPAmTW[O2
+R1
+R2
+Z12 w1603587751
+Z13 8C:/Users/hacke/Desktop/ECE 3544/Project 2/tb_channel.v
+Z14 FC:/Users/hacke/Desktop/ECE 3544/Project 2/tb_channel.v
+R8
+R4
+r1
+!s85 0
+31
+R11
+Z15 !s107 C:/Users/hacke/Desktop/ECE 3544/Project 2/tb_channel.v|
+Z16 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/Project 2/tb_channel.v|
+!i113 1
+R6
+R7
+vtb_channel2
+R10
+!i10b 1
+!s100 @[^TmPj=YUCCh9H<7i>gc0
+Ioi2aiP8kBPb_LNY:OAkPi2
+R1
+R2
+R12
+R13
+R14
+L0 34
+R4
+r1
+!s85 0
+31
+R11
+R15
+R16
+!i113 1
+R6
+R7
+vtb_clk
+R10
+!i10b 1
+!s100 Z5:n]KmB9jPP5OgMlBAlL1
+I2h^EQ]<06zJ0YMQG^S?M:1
+R1
+R2
+R3
+8C:/Users/hacke/Desktop/ECE 3544/Project 2/tb_clk.v
+FC:/Users/hacke/Desktop/ECE 3544/Project 2/tb_clk.v
+L0 22
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/hacke/Desktop/ECE 3544/Project 2/tb_clk.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/Project 2/tb_clk.v|
+!i113 1
+R6
+R7
+vtb_counter
+R10
+!i10b 1
+!s100 1VXocCf9OY]5GaJA4^_]P3
+IAeAEWeKczF8l]jcfXnmF72
+R1
+R2
+R3
+8C:/Users/hacke/Desktop/ECE 3544/Project 2/tb_counter.v
+FC:/Users/hacke/Desktop/ECE 3544/Project 2/tb_counter.v
+L0 23
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/hacke/Desktop/ECE 3544/Project 2/tb_counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/Project 2/tb_counter.v|
+!i113 1
+R6
+R7
+vtb_counter9bit_jdl25175
+R10
+!i10b 1
+!s100 Jnghn@fO@bGNib;IZk_gh1
+IKBf81^hQJ>FPe?4OR6ifI3
+R1
+R2
+w1603415340
+8C:/Users/hacke/Desktop/ECE 3544/Project 2/tb_counter9bit.v
+FC:/Users/hacke/Desktop/ECE 3544/Project 2/tb_counter9bit.v
+R8
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/hacke/Desktop/ECE 3544/Project 2/tb_counter9bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/Project 2/tb_counter9bit.v|
+!i113 1
+R6
+R7
+vtb_hc280_jdl25175
+R10
+!i10b 1
+!s100 3N8:Q<mh7LILU8WI_kWLM3
+I9mB;1_cPNm0XJP9@iB4d21
+R1
+R2
+w1603471527
+8C:/Users/hacke/Desktop/ECE 3544/Project 2/tb_HC280.v
+FC:/Users/hacke/Desktop/ECE 3544/Project 2/tb_HC280.v
+R9
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/hacke/Desktop/ECE 3544/Project 2/tb_HC280.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/Project 2/tb_HC280.v|
+!i113 1
+R6
+R7
+vtb_register10bit_jdl25175
+R10
+!i10b 1
+!s100 :;K6nCKjDRA`VmiU^=UDH3
+I;F371no]z=?;S2n`JlM?20
+R1
+R2
+w1603556656
+8C:/Users/hacke/Desktop/ECE 3544/Project 2/tb_register10bit.v
+FC:/Users/hacke/Desktop/ECE 3544/Project 2/tb_register10bit.v
+R9
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/hacke/Desktop/ECE 3544/Project 2/tb_register10bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/Project 2/tb_register10bit.v|
+!i113 1
+R6
+R7
+vtransmit_jdl25175
+R0
+!i10b 1
+!s100 Ef3hg:H2g^A?NW]m;lQ9m2
+I[CUHEFf^IOKmPSGaASLGG0
+R1
+R2
+w1603585104
+8C:/Users/hacke/Desktop/ECE 3544/Project 2/transmit.v
+FC:/Users/hacke/Desktop/ECE 3544/Project 2/transmit.v
+L0 9
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/hacke/Desktop/ECE 3544/Project 2/transmit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/hacke/Desktop/ECE 3544/Project 2/transmit.v|
+!i113 1
+R6
+R7
